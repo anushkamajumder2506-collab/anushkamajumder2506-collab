@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Anushka Majumder 👋</h1>
+<h1 align="center">Hi, I'm Anushka Majumdar 👋</h1>
 
 <h3 align="center">ECE Undergraduate | Aspiring Embedded Systems Engineer</h3>
 
